@@ -1,0 +1,1 @@
+export const buttonStyle = "w-1/4 h-1/4 min-h-14 min-w-20 bg-gray-600 border-2 hover:bg-gray-500";
